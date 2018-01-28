@@ -8,7 +8,9 @@ success_criterion:
 - 2.1.1 # Keyboard  (level A)
 
 authors:
-- José Hilera, Francisco Estrada, Cristian Timbi
+- José Hilera
+- Francisco Estrada
+- Cristian Timbi
 ---
 
 ## Description
