@@ -15,7 +15,7 @@ authors:
 
 ## Description
 
-Este test chequea si la funcionalidad del contenido es operable a travez del teclado
+Este test chequea si la funcionalidad del contenido es operable a través del teclado
 
 
 ## Background
